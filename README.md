@@ -20,7 +20,10 @@ Base template project, to start with a node.js with MySQL DB backend and react +
 ```
 	- cd ../backend
 	- npm start
-	
+```
+
+in another terminal type :
+```	
 	- cd ../frontend
 	- npm start
 ```
