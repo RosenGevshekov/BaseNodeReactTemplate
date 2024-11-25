@@ -69,6 +69,7 @@ This will add a new blog to the DB!
 You can check them at the frontend side:
 
 Link: http://localhost:3000/about
+<br />
 Link: http://localhost:3000/blog
 
 
