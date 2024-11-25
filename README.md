@@ -3,15 +3,18 @@ Base template project, to start with a node.js with MySQL DB backend and react +
 
 # SET UP
 1.Open the project in VSCode
-
+<br />
 2.Open the terminal
+<br />
 3.Type following commands:
   - cd backend
   - npm install
 
   - cd ../frontend
   - npm install
+<br />
 4.Configure the env file in the backend project with your MySQL DB credentials
+<br />
 5.Type following commands:
 	- cd ../backend
 	- npm start
@@ -26,6 +29,7 @@ You can test it by every Rest Client (Postman for example)
 Edit the About Page:
 
 Example : 
+<br />
 	Endpoint: POST http://localhost:5000/api/admin/page
 	
 	Body (JSON):
@@ -41,9 +45,9 @@ This will update the about page, using the API
 ------------------------------------------------------------------------------
 
 Add a Blog Post:
-
+<br />
 	Endpoint: POST http://localhost:5000/api/admin/blog
-
+ 
 	Body (JSON):
 
 		{
